@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+.vscode/
+vendor/
+*.log
+Thumbs.db
+Desktop.ini
